@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/globe2.jpg
   actions:
-    - label: "<i class='fas fa-rocket'></i> Launch"
+    - label: "<i class='fas fa-rocket'></i> Launch App"
       url: "https://github.com/mmistakes/minimal-mistakes/"
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse interdum tempor leo, sit amet maximus elit interdum non. In pharetra felis id purus consequat, a interdum arcu mattis."
 intro: 
