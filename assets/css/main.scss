@@ -4,11 +4,9 @@
 
 @charset "utf-8";
 
-$primary-color: #000060;
+$primary-color: #043814;
 $footer-background-color: $primary-color;
-$link-color: #ff0632;
-
-
+$link-color: $primary-color;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
