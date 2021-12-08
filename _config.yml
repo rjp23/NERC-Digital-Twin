@@ -112,7 +112,7 @@ tag_archive:
 # Collections
 collections:
   recipes:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
