@@ -1,9 +1,7 @@
 ---
-title: "NERC Digital Twin Case Study"
+title: "Team Members"
 layout: single
 permalink: /team3/
-intro: 
-  - excerpt: 'This project brings together scientists from [NCEO](https://www.nceo.ac.uk/), [NCAS](https://ncas.ac.uk/) and the [UK Met Office](https://www.metoffice.gov.uk/weather/climate/met-office-hadley-centre/index) along with expertise on data and IT infrastructure from [CEDA](https://www.ceda.ac.uk/) and [STFC](https://dafni.ac.uk/) in order to further develop and deploy an innovative Digital Twin application aimed at providing decision support related to African drought.'
 feature_row:
   - image_path: assets/images/globe1.jpg
     alt: "placeholder image 1"
