@@ -114,6 +114,9 @@ collections:
   recipes:
     output: false
     permalink: /:collection/:path/
+  team:
+    output: false
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -122,6 +125,15 @@ defaults:
   - scope:
       path: ""
       type: recipes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _recipes
+  - scope:
+      path: ""
+      type: team
     values:
       layout: single
       author_profile: true
