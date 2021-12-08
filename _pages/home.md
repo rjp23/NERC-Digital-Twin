@@ -1,5 +1,5 @@
 ---
-title: "Splash Page"
+title: "NERC Digital Twin Case Study"
 layout: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00
@@ -10,9 +10,9 @@ header:
   actions:
     - label: "<i class='fas fa-rocket'></i> Launch App"
       url: "https://github.com/mmistakes/minimal-mistakes/"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse interdum tempor leo, sit amet maximus elit interdum non. In pharetra felis id purus consequat, a interdum arcu mattis."
+excerpt: "A Digital Twin for African Drought - Democratising Complex Model Data with Machine Learning to Aid Decision Support."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'This project brings together scientists from NCEO, NCAS and the UK Met Office along with expertise on data and IT infrastructure from CEDA and STFC in order to further develop and deploy an innovative Digital Twin application aimed at providing decision support related to African drought.'
 feature_row:
   - image_path: assets/images/savannah.jpg
     alt: "placeholder image 1"
