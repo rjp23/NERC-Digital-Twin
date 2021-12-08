@@ -24,10 +24,8 @@ ncas_reading:
 ---
 
 
-{% include feature_row %}
+{% include feature_row id="nceo_leicester" %}
 
-{% include feature_row id="nceo_leicester" type="left" %}
+{% include feature_row id="nceo_reading %}
 
-{% include feature_row id="nceo_reading type="left" %}
-
-{% include feature_row id="ncas_reading type="left" %}
+{% include feature_row id="ncas_reading %}
