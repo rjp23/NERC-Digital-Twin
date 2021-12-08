@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/globe2.jpg
   actions:
-    - label: "<i class='fas fa-rocket'></i> Launch App"
+    - label: "<i class='fas fa-rocket'></i> Launch Digital Twin"
       url: "https://github.com/mmistakes/minimal-mistakes/"
 excerpt: "A Digital Twin for African Drought - Democratising Complex Model Data with Machine Learning to Aid Decision Support"
 intro: 
