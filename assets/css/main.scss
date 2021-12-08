@@ -8,9 +8,5 @@ $primary-color: #043814;
 $footer-background-color: $primary-color;
 $link-color: $primary-color;
 
-.archive__item-body {
-  width: span(11 of 12) !important;
-}
-        
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
