@@ -13,23 +13,19 @@ feature_row:
     alt: "placeholder image 2"
     title: "Objective 2"
     excerpt: "Use of machine-learning emulator for process explainability and model development"
-  - image_path: /assets/images/savannah.jpg
-    title: "Objective 3"
-    excerpt: "Stakeholder engagement and use case development"
-  - image_path: assets/images/globe1.jpg
-    alt: "placeholder image 1"
-    title: "Objective 1"
-    excerpt: "Development of a web-based interface to allow non-expert users to utilise the capabilities of the model emulators"
-  - image_path: /assets/images/satellite.jpg
-    alt: "placeholder image 2"
-    title: "Objective 2"
-    excerpt: "Use of machine-learning emulator for process explainability and model development"
-  - image_path: /assets/images/savannah.jpg
-    title: "Objective 3"
-    excerpt: "Stakeholder engagement and use case development"
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include id="intro" type="center" %}
 
-{% include feature_row %}
+{% include feature_row_nceo_leicester %}
+
+{% include feature_row_nceo_reading %}
+
+{% include feature_row_ncas_reading %}
+
+{% include feature_row_ceda %}
+
+{% include feature_row_metoffice %}
+
+{% include feature_row_stfc %}
 
