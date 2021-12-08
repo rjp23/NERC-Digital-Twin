@@ -19,6 +19,26 @@ team_members:
     alt: "placeholder image 1"
     title: "Prof Emily Black"
     excerpt: "NCAS-Reading &#124; Co-I"
+  - image_path: assets/images/globe1.jpg
+    alt: "placeholder image 1"
+    title: "Prof Emily Black"
+    excerpt: "NCAS-Reading &#124; Co-I"
+  - image_path: assets/images/globe1.jpg
+    alt: "placeholder image 1"
+    title: "Prof Emily Black"
+    excerpt: "NCAS-Reading &#124; Co-I"
+  - image_path: assets/images/globe1.jpg
+    alt: "placeholder image 1"
+    title: "Prof Emily Black"
+    excerpt: "NCAS-Reading &#124; Co-I"
+  - image_path: assets/images/globe1.jpg
+    alt: "placeholder image 1"
+    title: "Prof Emily Black"
+    excerpt: "NCAS-Reading &#124; Co-I"
+  - image_path: assets/images/globe1.jpg
+    alt: "placeholder image 1"
+    title: "Prof Emily Black"
+    excerpt: "NCAS-Reading &#124; Co-I"
 ---
 
 
