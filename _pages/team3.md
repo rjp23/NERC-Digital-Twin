@@ -2,7 +2,7 @@
 title: "Team Members"
 layout: single
 permalink: /team3/
-feature_row:
+nceo_leicester:
   - image_path: assets/images/globe1.jpg
     alt: "placeholder image 1"
     title: "Objective 1"
@@ -13,17 +13,10 @@ feature_row:
     excerpt: "Use of machine-learning emulator for process explainability and model development"
 ---
 
-{% include id="intro" type="center" %}
 
-{% include feature_row_nceo_leicester %}
+{% include feature_row %}
 
-{% include feature_row_nceo_reading %}
+{% include feature_row id="nceo_leicester" type="left" %}
 
-{% include feature_row_ncas_reading %}
 
-{% include feature_row_ceda %}
-
-{% include feature_row_metoffice %}
-
-{% include feature_row_stfc %}
 
