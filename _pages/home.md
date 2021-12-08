@@ -29,7 +29,7 @@ feature_row2:
   - image_path: /assets/images/track.jpg
     alt: "placeholder image 2"
     title: "A Digital Twin for African Drought"
-    excerpt: "We will deploy our Digital Twin as a web-based application using deployed on the JASMIN Cloud infrastructure. Users will be able to, at the simple click of a button, simulate soil moisture time series over continental Africa. Flexibility will allow simulations for either the recent historical period, driven by TAMSAT rainfall data, or over the next century based on a range of ISIMIP climate scenarios."
+    excerpt: "We will deploy our Digital Twin as a web-based application on the JASMIN Cloud infrastructure. Users will be able to, at the simple click of a button, simulate soil moisture time series over continental Africa. Flexibility will allow simulations for either the recent historical period, driven by TAMSAT rainfall data, or over the next century based on a range of ISIMIP climate scenarios."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
