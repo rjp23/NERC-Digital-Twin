@@ -22,7 +22,6 @@ feature_row:
     alt: "placeholder image 2"
     title: "Objective 2"
     excerpt: "Use of machine-learning emulator for process explainability and model development"
-    url: "#test-link"
   - image_path: /assets/images/globe1.jpg
     title: "Objective 3"
     excerpt: "Stakeholder engagement and use case development"
