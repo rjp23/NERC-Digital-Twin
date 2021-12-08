@@ -6,11 +6,11 @@ team_members:
   - image_path: assets/images/globe1.jpg
     alt: "placeholder image 1"
     title: "Dr Robert Parker"
-    excerpt: "NCEO-Leicester <p> Project Lead"
+    excerpt: "NCEO-Leicester \ Project Lead"
   - image_path: /assets/images/satellite.jpg
     alt: "placeholder image 2"
     title: "Dr Cristina Ruiz Villena"
-    excerpt: "NCEO-Leicester <p> Project Scientist"
+    excerpt: "NCEO-Leicester \ Project Scientist"
   - image_path: assets/images/globe1.jpg
     alt: "placeholder image 1"
     title: "Prof Tristan Quaife"
