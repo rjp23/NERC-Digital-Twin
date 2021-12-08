@@ -2,30 +2,24 @@
 title: "Team Members"
 layout: single
 permalink: /team3/
-nceo_leicester:
+team:
   - image_path: assets/images/globe1.jpg
     alt: "placeholder image 1"
     title: "Dr Robert Parker"
-    excerpt: "Project Lead"
+    excerpt: "NCEO-Leicester | Project Lead"
   - image_path: /assets/images/satellite.jpg
     alt: "placeholder image 2"
     title: "Dr Cristina Ruiz Villena"
-    excerpt: "Project Scientist"
-nceo_reading:
+    excerpt: "NCEO-Leicester | Project Scientist"
   - image_path: assets/images/globe1.jpg
     alt: "placeholder image 1"
     title: "Prof Tristan Quaife"
-    excerpt: "Co-I"
-ncas_reading:
+    excerpt: "NCEO-Reading | Co-I"
   - image_path: assets/images/globe1.jpg
     alt: "placeholder image 1"
     title: "Prof Emily Black"
-    excerpt: "Co-I"
+    excerpt: "NCAS-Reading | Co-I"
 ---
 
 
-{% include feature_row id="nceo_leicester" %}
-
-{% include feature_row id="nceo_reading" %}
-
-{% include feature_row id="ncas_reading" %}
+{% include feature_row id="team" %}
