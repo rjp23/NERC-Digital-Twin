@@ -111,9 +111,6 @@ tag_archive:
  
 # Collections
 collections:
-  recipes:
-    output: false
-    permalink: /:collection/:path/
   team:
     output: false
     permalink: /:collection/:path/
@@ -121,15 +118,6 @@ collections:
 
 # Defaults
 defaults:
-  # _recipes
-  - scope:
-      path: ""
-      type: recipes
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _team
   - scope:
       path: ""
