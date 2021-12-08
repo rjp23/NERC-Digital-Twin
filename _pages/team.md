@@ -1,10 +1,6 @@
 ---
 title: Team
-layout: collection
 permalink: /team/
-collection: team
-entries_layout: grid
-classes: wide
 ---
 
 {% for team_member in site.team %}
