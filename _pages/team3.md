@@ -2,7 +2,7 @@
 title: "Team Members"
 layout: single
 permalink: /team3/
-team:
+team_members:
   - image_path: assets/images/globe1.jpg
     alt: "placeholder image 1"
     title: "Dr Robert Parker"
@@ -22,4 +22,4 @@ team:
 ---
 
 
-{% include feature_row id="team" %}
+{% include feature_row id="team_members" %}
