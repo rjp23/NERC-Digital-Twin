@@ -1,6 +1,6 @@
 ---
 title: Team
-layout: team
+layout: archive
 permalink: /team/
 collection: team
 entries_layout: grid
