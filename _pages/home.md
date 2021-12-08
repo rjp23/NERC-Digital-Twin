@@ -14,7 +14,7 @@ excerpt: "A Digital Twin for African Drought - Democratising Complex Model Data 
 intro: 
   - excerpt: 'This project brings together scientists from NCEO, NCAS and the UK Met Office along with expertise on data and IT infrastructure from CEDA and STFC in order to further develop and deploy an innovative Digital Twin application aimed at providing decision support related to African drought.'
 feature_row:
-  - image_path: assets/images/savannah.jpg
+  - image_path: assets/images/globe1.jpg
     alt: "placeholder image 1"
     title: "Objective 1"
     excerpt: "Development of a web-based interface to allow non-expert users to utilise the capabilities of the model emulators"
