@@ -1,6 +1,14 @@
 ---
-title: "<center>Team Members</center>"
 layout: single
+title: "Meet The Team"
+layout: single
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/globe2.jpg
+  actions:
+    - label: "<i class='fas fa-rocket'></i> Launch Digital Twin"
+      url: "https://rjp23.github.io/NERC-Digital-Twin/"
 permalink: /team/
 team_members:
   - image_path: assets/images/user.png
