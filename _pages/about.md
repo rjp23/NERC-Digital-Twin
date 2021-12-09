@@ -2,6 +2,7 @@
 permalink: /about/
 title: "<center>About The Project</center>"
 layout: single
+toc: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
