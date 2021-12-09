@@ -1,7 +1,7 @@
 ---
 title: "<center>Team Members</center>"
 layout: single
-permalink: /team3/
+permalink: /team/
 team_members:
   - image_path: assets/images/user.png
     alt: "placeholder image 1"
