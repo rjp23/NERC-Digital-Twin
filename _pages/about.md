@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About The Project"
+title: "<center>About The Project</center>"
 layout: single
 header:
   overlay_color: "#000"
