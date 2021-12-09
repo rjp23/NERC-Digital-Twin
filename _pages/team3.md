@@ -35,10 +35,6 @@ team_members:
     alt: "placeholder image 1"
     title: "<center>Dr Eleanor Burke</center>"
     excerpt: "<center>Project Partner <br /> Met Office</center> 
-   - image_path: /assets/images/user.png
-    alt: "placeholder image 1"
-    title: "<center>Dr Brian Matthews</center>"
-    excerpt: "<center>Project Partner <br /> Met Office</center> 
 ---
 
 
