@@ -43,7 +43,7 @@ team_members:
     alt: "placeholder image 1"
     title: "<center>Prof Tristan Quaife</center>"
     excerpt: "<center>Co-Investigator <br /> NCEO-Reading</center>"
- ---
+---
 
 
 {% include feature_row id="team_members" %}
