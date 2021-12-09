@@ -5,8 +5,8 @@ permalink: /team3/
 team_members:
   - image_path: assets/images/user.png
     alt: "placeholder image 1"
-    title: 'Dr Robert Parker'
-    excerpt: "NCEO-Leicester \ Project Lead"
+    title: '<center>Dr Robert Parker</center>'
+    excerpt: "Project Lead\NCEO-Leicester"
   - image_path: /assets/images/user.png
     alt: "placeholder image 2"
     title: "Dr Cristina Ruiz Villena"
