@@ -1,5 +1,5 @@
 ---
-title: "Team Members"
+title: "<center>Team Members</center>"
 layout: single
 permalink: /team3/
 team_members:
