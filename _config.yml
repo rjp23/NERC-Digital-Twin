@@ -109,23 +109,6 @@ tag_archive:
   path: /tags/
   
  
-# Collections
-collections:
-  team:
-    output: false
-    permalink: /:collection/:path/
 
-
-# Defaults
-defaults:
-  # _team
-  - scope:
-      path: ""
-      type: team
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
 
 
