@@ -3,7 +3,7 @@ title: "Team Members"
 layout: single
 permalink: /team3/
 team_members:
-  - image_path: /assets/images/user.png
+  - image_path: assets/images/user.png
     alt: "placeholder image 1"
     title: '<i class="fas fa-user-circle"></i> Dr Robert Parker'
     excerpt: "NCEO-Leicester \ Project Lead"
