@@ -6,7 +6,7 @@ team_members:
   - image_path: assets/images/user.png
     alt: "placeholder image 1"
     title: '<center>Dr Robert Parker</center>'
-    excerpt: "Project Lead \ NCEO-Leicester"
+    excerpt: "<center>Project Lead <br /> NCEO-Leicester</center>"
   - image_path: /assets/images/user.png
     alt: "placeholder image 2"
     title: "<center>Dr Cristina Ruiz Villena</center>"
