@@ -10,35 +10,15 @@ team_members:
   - image_path: /assets/images/user.png
     alt: "placeholder image 2"
     title: "<center>Dr Cristina Ruiz Villena</center>"
-    excerpt: "<center>NCEO-Leicester \ Project Scientist</center>"
+    excerpt: "<center>Project Scientist< <br /> NCEO-Leicester</center>"
   - image_path: /assets/images/user.png
     alt: "placeholder image 1"
     title: "<center>Prof Tristan Quaife</center>"
-    excerpt: "NCEO-Reading <p> Co-I"
+    excerpt: "<center>Co-Investigator <br /> NCEO-Reading</center>"
   - image_path: /assets/images/user.png
     alt: "placeholder image 1"
     title: "<center>Prof Emily Black</center>"
-    excerpt: "NCAS-Reading <p> Co-I"
-  - image_path: /assets/images/user.png
-    alt: "placeholder image 1"
-    title: "Prof Emily Black"
-    excerpt: "NCAS-Reading <p> Co-I"
-  - image_path: /assets/images/user.png
-    alt: "placeholder image 1"
-    title: "Prof Emily Black"
-    excerpt: "NCAS-Reading <p> Co-I"
-  - image_path: /assets/images/user.png
-    alt: "placeholder image 1"
-    title: "Prof Emily Black"
-    excerpt: "NCAS-Reading <p> Co-I"
-  - image_path: /assets/images/user.png
-    alt: "placeholder image 1"
-    title: "Prof Emily Black"
-    excerpt: "NCAS-Reading <p> Co-I"
-  - image_path: /assets/images/user.png
-    alt: "placeholder image 1"
-    title: "Prof Emily Black"
-    excerpt: "NCAS-Reading <p> Co-I"
+    excerpt: "<center>Co-Investigator <br /> NCAS-Reading</center>"
 ---
 
 
