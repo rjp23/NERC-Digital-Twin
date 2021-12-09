@@ -19,26 +19,6 @@ team_members:
     alt: "placeholder image 1"
     title: "<center>Prof Emily Black</center>"
     excerpt: "<center>Co-Investigator <br /> NCAS-Reading</center>"
-  - image_path: /assets/images/user.png
-    alt: "placeholder image 1"
-    title: "<center>Phil Kershaw</center>"
-    excerpt: "<center>Co-Investigator <br /> CEDA</center>"
-  - image_path: /assets/images/user.png
-    alt: "placeholder image 1"
-    title: "<center>Dr Andrew Hartley</center>"
-    excerpt: "<center>Project Partner <br /> Met Office</center>"
-   - image_path: /assets/images/user.png
-    alt: "placeholder image 1"
-    title: "<center>Dr Camilla Mathison</center>"
-    excerpt: "<center>Project Partner <br /> Met Office</center>"
-   - image_path: /assets/images/user.png
-    alt: "placeholder image 1"
-    title: "<center>Dr Eleanor Burke</center>"
-    excerpt: "<center>Project Partner <br /> Met Office</center> 
-   - image_path: /assets/images/user.png
-    alt: "placeholder image 1"
-    title: "<center>Dr Brian Matthews</center>"
-    excerpt: "<center>Project Partner <br /> DAFNI-STFC</center>"
 ---
 
 
