@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Meet The Team"
+title: "<center>Meet The Team</center>"
 layout: single
 header:
   overlay_color: "#000"
