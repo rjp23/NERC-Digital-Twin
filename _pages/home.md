@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/globe2.jpg
   actions:
     - label: "<i class='fas fa-rocket'></i> Launch Digital Twin"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+      url: "https://rjp23.github.io/NERC-Digital-Twin/"
 excerpt: "A Digital Twin for African Drought - Democratising Complex Model Data with Machine Learning to Aid Decision Support"
 intro: 
   - excerpt: 'This project brings together scientists from [NCEO](https://www.nceo.ac.uk/), [NCAS](https://ncas.ac.uk/) and the [UK Met Office](https://www.metoffice.gov.uk/weather/climate/met-office-hadley-centre/index) along with expertise on data and IT infrastructure from [CEDA](https://www.ceda.ac.uk/) and [STFC](https://dafni.ac.uk/) in order to further develop and deploy an innovative Digital Twin application aimed at providing decision support related to African drought.'
