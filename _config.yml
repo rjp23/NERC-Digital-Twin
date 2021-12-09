@@ -111,17 +111,17 @@ tag_archive:
  
 # Collections
 collections:
-  recipes:
+  team:
     output: false
     permalink: /:collection/:path/
 
 
 # Defaults
 defaults:
-  # _recipes
+  # _team
   - scope:
       path: ""
-      type: recipes
+      type: team
     values:
       layout: single
       author_profile: true
