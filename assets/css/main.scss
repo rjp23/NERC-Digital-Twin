@@ -10,7 +10,6 @@ $link-color: $primary-color;
 
 .feature__item {
     margin-bottom: 2em !important;
-    color: red !important;
 }
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
